@@ -1,0 +1,17 @@
+<ap>
+	<TransCode>1944</TransCode>
+	<ChannelType>0</ChannelType>
+	<CorpNo></CorpNo>
+	<OpNo></OpNo>
+	<AuthNo></AuthNo>
+	<ReqSeqNo>0</ReqSeqNo>
+	<ReqDate></ReqDate>
+	<ReqTime></ReqTime>
+	<Sign></Sign>
+	<Version>
+		<CsVersion>0</CsVersion>
+	</Version>
+	<Cme>
+		<SerialNo></SerialNo>
+	</Cme>
+</ap>

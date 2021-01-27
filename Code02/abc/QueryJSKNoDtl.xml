@@ -1,0 +1,20 @@
+<ap>
+<Sign> </Sign>
+	<ReqTime></ReqTime>
+	<ReqDate></ReqDate>
+	<ReqSeqNo></ReqSeqNo>
+	<AuthNo></AuthNo>
+	<OpNo></OpNo>
+	<CorpNo></CorpNo>
+	<ProductID>ICC</ProductID>
+	<ChannelType>ERP</ChannelType>
+	<CCTransCode>CQLT64</CCTransCode>
+	<Corp>
+		<StartDate></StartDate>
+		<EndDate></EndDate>
+	</Corp>
+	<Cmp>
+		<DbAccNo></DbAccNo>
+		<DbCur></DbCur>
+	</Cmp>
+</ap> 

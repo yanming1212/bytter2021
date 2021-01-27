@@ -1,0 +1,34 @@
+<ap>
+	<TransCode>2287</TransCode>
+	<ChannelType>0</ChannelType>
+	<CorpNo></CorpNo>
+	<OpNo></OpNo>
+	<AuthNo></AuthNo>
+	<ReqSeqNo></ReqSeqNo>
+	<ReqDate></ReqDate>
+	<ReqTime></ReqTime>
+	<Amt></Amt>
+	<Sign></Sign>
+	<Corp>
+		<BookingDate></BookingDate>
+		<BookingTime></BookingTime>
+		<BookingFlag>0</BookingFlag>
+		<CrActCode>0000</CrActCode>
+		<CshDraFlag>0</CshDraFlag>
+		<VoucherType>0</VoucherType>
+		<VoucherNo>0</VoucherNo>
+		<Postscript></Postscript>
+		<DbAccName></DbAccName>
+		<CrAccName></CrAccName>
+	</Corp>
+	<Cmp>
+		<DbAccNo></DbAccNo>
+		<DbProv></DbProv>
+		<DbCur></DbCur>
+		<DbLogAccNo></DbLogAccNo>
+		<CrAccNo></CrAccNo>
+		<CrProv></CrProv>
+		<CrCur></CrCur>
+		<ConFlag>1</ConFlag>
+	</Cmp>
+</ap>

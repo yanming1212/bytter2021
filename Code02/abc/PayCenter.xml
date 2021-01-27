@@ -1,0 +1,43 @@
+<ap>
+	<TransCode>2281</TransCode>
+	<ChannelType>0</ChannelType>
+	<CorpNo> </CorpNo>
+	<OpNo> </OpNo>
+	<AuthNo> </AuthNo>
+	<ReqSeqNo>0</ReqSeqNo>
+	<ReqDate> </ReqDate>
+	<ReqTime> </ReqTime>
+	<Sign> </Sign>
+	<Amt> </Amt>
+	<Cmp>
+		<DbAccNo> </DbAccNo>
+		<DbProv> </DbProv>
+		<DbCur>01</DbCur>
+		<DbLogAccNo> </DbLogAccNo>
+		<CrAccNo> </CrAccNo>
+		<CrProv> </CrProv>
+		<CrCur>01</CrCur>
+		<CrLogAccNo> </CrLogAccNo>
+		<ConFlag>1</ConFlag>
+	</Cmp>
+	<Corp>
+		<SubAccNo> </SubAccNo>
+		<SubAccName> </SubAccName>
+		<BookingDate> </BookingDate>
+		<BookingTime> </BookingTime>
+		<BookingFlag>0</BookingFlag>
+		<ExchangeType>0</ExchangeType>
+		<PostscriptRes> </PostscriptRes>
+		<UrgencyFlag> </UrgencyFlag>
+		<OthBankFlag> </OthBankFlag>
+		<OthCenterFlag> </OthCenterFlag>
+		<CrAccName> </CrAccName>
+		<CrBankName> </CrBankName>
+		<CrBankNo> </CrBankNo>
+		<DbAccName> </DbAccName>
+		<DbBankName> </DbBankName>
+		<DbAddress> </DbAddress>
+		<CrAddress> </CrAddress>
+		<WhyUse> </WhyUse>
+	</Corp>
+</ap>

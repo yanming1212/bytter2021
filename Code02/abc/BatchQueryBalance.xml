@@ -1,0 +1,21 @@
+<ap>
+	<Cmp>
+		<RespPrvData></RespPrvData>
+	</Cmp>
+	<Cme>
+		<FieldNum></FieldNum>
+		<RecordNum></RecordNum>
+	</Cme>
+	<Channel>
+		<Online></Online>
+	</Channel>
+	<Sign></Sign>
+	<ReqTime></ReqTime>
+	<ReqDate></ReqDate>
+	<ReqSeqNo>0</ReqSeqNo>
+	<AuthNo></AuthNo>
+	<OpNo></OpNo>
+	<CorpNo></CorpNo>
+	<ChannelType>0</ChannelType>
+	<TransCode>C502</TransCode>
+</ap>

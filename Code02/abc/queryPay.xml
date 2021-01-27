@@ -1,0 +1,17 @@
+<ap>
+	<TransCode>1972</TransCode>
+	<ChannelType>0</ChannelType>
+	<CorpNo></CorpNo>
+	<OpNo></OpNo>
+	<AuthNo></AuthNo>
+	<ReqSeqNo>0</ReqSeqNo>
+	<ReqDate></ReqDate>
+	<ReqTime></ReqTime>
+	<Sign></Sign>
+	<Amt></Amt>
+	<FileFlag>0</FileFlag>
+	<Corp>
+		<CustomNo></CustomNo>
+	</Corp>
+
+</ap>

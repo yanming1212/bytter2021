@@ -1,0 +1,19 @@
+<ap>
+  <TransCode>7506</TransCode>
+  <ChannelType>0</ChannelType>
+  <CorpNo></CorpNo>
+  <OpNo></OpNo>
+  <AuthNo></AuthNo>
+  <ReqSeqNo>0</ReqSeqNo>
+  <ReqDate></ReqDate>
+  <ReqTime></ReqTime>
+  <Sign> </Sign>
+  <Cmp>
+   <DbAccNo></DbAccNo>
+   <DbProv></DbProv>
+   <DbCur>01</DbCur>
+  </Cmp>
+  <Channel>
+   <AccDate></AccDate>
+  </Channel>
+ </ap>

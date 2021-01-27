@@ -1,0 +1,2 @@
+dtlPath=C:\\Program Files\\中国农业银行\\中国农业银行银企通平台\\data
+payOffPath=C:\\Program Files\\中国农业银行\\中国农业银行银企通平台\\data\\

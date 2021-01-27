@@ -1,0 +1,33 @@
+<ap>
+	<TransCode>2286</TransCode>
+	<ChannelType>0</ChannelType>
+	<CorpNo></CorpNo>
+	<OpNo></OpNo>
+	<AuthNo></AuthNo>
+	<ReqSeqNo>0</ReqSeqNo>
+	<ReqDate></ReqDate>
+	<ReqTime></ReqTime>
+	<Sign>
+	</Sign>
+	<Cme>
+		<CcIp>127.0.0.1</CcIp>
+	</Cme>
+	<Corp>
+		<EndDate>20061225</EndDate>
+		<StartDate>20061225</StartDate>
+	</Corp>
+	<Cmp>
+		<StartTime></StartTime>
+		<DbCur>01</DbCur>
+		<DbAccNo>112001040000138</DbAccNo>
+		<DbProv>24</DbProv>
+	</Cmp>
+	<Version>
+		<CcVersion>0</CcVersion>
+	</Version>
+	<Channel>
+		<LastJrnNo>0</LastJrnNo>
+		
+	</Channel>
+	
+</ap>

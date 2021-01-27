@@ -1,0 +1,28 @@
+<ap>
+	<TransCode>C405</TransCode>
+	<ChannelType>0</ChannelType>
+	<CorpNo></CorpNo>
+	<OpNo></OpNo>
+	<AuthNo></AuthNo>
+	<ReqSeqNo>0</ReqSeqNo>
+	<ReqDate></ReqDate>
+	<ReqTime></ReqTime>
+	<Sign></Sign>
+	<Amt></Amt>
+	<FileFlag>1</FileFlag>
+	<Corp>
+		<BookingDate>
+		</BookingDate>
+		<BookingTime></BookingTime>
+		<BookingFlag></BookingFlag>
+		<Postscript></Postscript>
+		<TotalNum></TotalNum>
+		<DbAccName></DbAccName>
+	</Corp>
+	<Cmp>
+		<DbAccNo></DbAccNo>
+		<DbProv></DbProv>
+		<DbCur></DbCur>
+		<BatchFileName></BatchFileName>
+	</Cmp>
+</ap>

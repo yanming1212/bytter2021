@@ -1,0 +1,22 @@
+<ap>
+    <TransCode>C317</TransCode>
+    <Sign> </Sign>
+	<ReqTime></ReqTime>
+	<ReqDate></ReqDate>
+	<ReqSeqNo></ReqSeqNo>
+	<AuthNo></AuthNo>
+	<OpNo></OpNo>
+	<CorpNo></CorpNo>
+	<ChannelType>0</ChannelType>
+	<Corp>
+		<StartDate></StartDate>
+		<EndDate></EndDate>
+	</Corp>
+	<Cmp>
+		<DbProv></DbProv>
+		<DbAccNo></DbAccNo>
+		<DbCur>01</DbCur>
+		<DbLogAccNo></DbLogAccNo>
+		<StartTime> </StartTime>
+	</Cmp>
+</ap>

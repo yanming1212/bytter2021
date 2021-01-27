@@ -1,0 +1,27 @@
+<ap>
+	<Corp>
+		<EndDate></EndDate>
+		<StartDate></StartDate>
+	</Corp>
+	<Cmp>
+		<StartTime></StartTime>
+		<DbCur>01</DbCur>
+		<DbAccNo></DbAccNo>
+		<DbProv></DbProv>
+	</Cmp>
+	<Version>
+		<CcVersion>0</CcVersion>
+	</Version>
+	<Channel>
+		<LastJrnNo>0</LastJrnNo>
+		<Online></Online>
+	</Channel>
+	<ReqTime></ReqTime>
+	<ReqDate></ReqDate>
+	<ReqSeqNo>0</ReqSeqNo>
+	<AuthNo></AuthNo>
+	<OpNo></OpNo>
+	<CorpNo></CorpNo>
+	<ChannelType></ChannelType>
+	<TransCode>7505</TransCode>
+</ap>

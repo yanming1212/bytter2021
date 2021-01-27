@@ -1,0 +1,29 @@
+<ap>
+	<TransCode>25D3</TransCode>
+	<ChannelType>0</ChannelType>
+	<CorpNo></CorpNo>
+	<OpNo></OpNo>
+	<AuthNo></AuthNo>
+	<ReqSeqNo>0</ReqSeqNo>
+	<ReqDate></ReqDate>
+	<ReqTime></ReqTime>
+	<Sign></Sign>
+	<Amt></Amt>
+	<Corp>
+		<BookingDate></BookingDate>
+		<BookingTime></BookingTime>
+		<BookingFlag>0</BookingFlag>
+		<Abstract></Abstract>
+		<Postscript></Postscript>
+		<DbAccName></DbAccName>
+	</Corp>
+	<Cmp>
+		<DbAccNo></DbAccNo>
+		<DbProv></DbProv>
+		<DbCur>01</DbCur>
+		<CrAccNo></CrAccNo>
+		<CrProv></CrProv>
+		<CrCur>01</CrCur>
+		<TrFlag>0</TrFlag>
+	</Cmp>
+</ap>

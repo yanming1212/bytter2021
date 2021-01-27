@@ -1,0 +1,24 @@
+<ap>
+	<TransCode>2558</TransCode>
+	<ChannelType>0</ChannelType>
+	<CorpNo></CorpNo>
+	<OpNo></OpNo>
+	<AuthNo></AuthNo>
+	<ReqSeqNo>0</ReqSeqNo>
+	<ReqDate></ReqDate>
+	<ReqTime></ReqTime>
+	<Sign></Sign>
+	<Amt></Amt>
+	<Corp>
+		<BookingDate></BookingDate>
+		<BookingTime></BookingTime>
+		<BookingFlag>0</BookingFlag>
+		<Abstract></Abstract>
+		<Postscript></Postscript>
+	</Corp>
+	<Cmp>
+		<CrAccNo></CrAccNo>
+		<CrProv></CrProv>
+		<CrCur>01</CrCur>
+	</Cmp>
+</ap>

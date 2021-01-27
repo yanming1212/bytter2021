@@ -1,0 +1,24 @@
+<ap>
+	<TransCode>2559</TransCode>
+	<ChannelType>0</ChannelType>
+	<CorpNo></CorpNo>
+	<OpNo></OpNo>
+	<AuthNo></AuthNo>
+	<ReqSeqNo>0</ReqSeqNo>
+	<ReqDate></ReqDate>
+	<ReqTime></ReqTime>
+	<Sign></Sign>
+	<Amt></Amt>
+	<Corp>
+		<BookingDate></BookingDate>
+		<BookingTime></BookingTime>
+		<BookingFlag>0</BookingFlag>
+		<Abstract></Abstract>
+		<Postscript></Postscript>
+	</Corp>
+	<Cmp>
+		<DbAccNo></DbAccNo>
+		<DbProv></DbProv>
+		<DbCur>01</DbCur>
+	</Cmp>
+</ap>
