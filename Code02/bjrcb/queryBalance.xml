@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="gb2312"?>
+<transaction>
+	<requestHeader>
+		<transName>b2eQueryBalance</transName>
+		<language>zh-cn</language>
+		<clientDate></clientDate>
+		<clientTime></clientTime>
+		<operatorID></operatorID>
+		<clientSeqNo></clientSeqNo>
+	</requestHeader>
+	<requestBody>
+		<transCount></transCount>
+		<requestRecord>
+			<transID></transID>
+			<acctNo></acctNo>
+		</requestRecord>
+	</requestBody>
+</transaction>

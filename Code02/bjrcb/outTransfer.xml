@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='gb2312'?>
+<transaction>
+	<requestHeader>
+		<transName>b2eOutBankTransfer</transName>
+		<language>zh-cn</language>
+		<clientDate></clientDate>
+		<clientTime></clientTime>
+		<operatorID></operatorID>
+		<clientSeqNo></clientSeqNo>
+	</requestHeader>
+	<requestBody>
+		<acctNo></acctNo>
+		<payeeAcctNo></payeeAcctNo>
+		<payeeAcctName></payeeAcctName>
+		<amount></amount>
+		<currency>01</currency>
+		<joinNo></joinNo>
+		<expressFlag>1</expressFlag>
+		<note>用途</note>
+	</requestBody>
+</transaction>
+

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding = "GB2312"?>
+<BCCBEBankData>
+	<opReq>	                               
+		<opName>CebankQryGZBatchDetailNewOp</opName> 
+		<serialNo></serialNo>         
+        <reqTime></reqTime>        
+		<ReqParam>
+            <batchSerialNo></batchSerialNo>
+        </ReqParam>
+	</opReq>
+</BCCBEBankData>
+

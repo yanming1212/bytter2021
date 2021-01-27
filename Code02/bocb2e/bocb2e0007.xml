@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="gb2312"?>
+<bocb2e version="100" security="true" lang="chs">
+    <head>
+        <termid></termid>
+        <custid></custid>
+        <cusopr></cusopr>
+        <trncod>b2e0007</trncod>
+        <token></token>
+    </head>
+    <trans>
+        <trn-b2e0007-rq>
+            <b2e0007-rq>
+                <insid></insid>
+                <obssid></obssid>
+            </b2e0007-rq>
+        </trn-b2e0007-rq>
+    </trans>
+</bocb2e>

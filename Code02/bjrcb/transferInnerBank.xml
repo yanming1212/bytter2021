@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="gb2312"?>
+<transaction>
+	<requestHeader>
+		<transName>b2eInnerBankTransfer</transName>
+		<language>zh-cn</language>
+		<clientDate></clientDate>
+		<clientTime></clientTime>
+		<operatorID></operatorID>
+		<clientSeqNo></clientSeqNo>
+	</requestHeader>
+	<requestBody>
+		<acctNo></acctNo>
+		<payeeAcctNo></payeeAcctNo>
+		<payeeAcctName></payeeAcctName>
+		<amount></amount>
+		<note></note>
+	</requestBody>
+</transaction>

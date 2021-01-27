@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="gb2312"?>
+<transaction>
+	<requestHeader>
+		<transName>login</transName>
+		<language>zh-cn</language>
+		<clientTime></clientTime>
+		<clientDate></clientDate>
+		<userID></userID>
+		<operatorID></operatorID>
+		<clientSeqno></clientSeqno>
+		<transCount>0</transCount>
+	</requestHeader>
+	<requestBody>
+		<requestRecord></requestRecord>
+	</requestBody>
+</transaction>

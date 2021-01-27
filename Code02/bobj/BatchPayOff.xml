@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding = "GB2312"?>
+<BCCBEBankData>
+    <opReq>                                   
+		<opName>CebankGZBatchPayNewOp</opName>  
+		<serialNo>12345600197</serialNo>         
+		<reqTime>20110608</reqTime>             
+		<ReqParam>
+			<paySalaryNo></paySalaryNo>
+			<payDepAcc></payDepAcc>
+			<precontractTime></precontractTime>
+			<totalNum></totalNum>
+			<totalAmt></totalAmt>
+			<currencyType>01</currencyType>
+            <bankBookSummary></bankBookSummary>
+            <tranMode>0</tranMode>
+            <reqReserved1></reqReserved1>
+            <reqReserved2></reqReserved2>
+			<opReqSet>
+				<opRequest>
+				    <orderNo></orderNo>
+					<recPerAcc></recPerAcc>
+					<recPerName></recPerName>
+					<certType></certType>
+					<certNum></certNum>
+					<payAmt></payAmt>
+					<userRem></userRem>
+                    <reqReserved3></reqReserved3>
+                    <reqReserved4></reqReserved4>
+				</opRequest>
+				
+			</opReqSet>
+		</ReqParam>
+    </opReq>
+</BCCBEBankData>
+

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding = "GB2312"?>
+<BCCBEBankData>
+	<opReq>
+		<opName>CebankUserLogonOp</opName>
+		<serialNo></serialNo>
+        <reqTime></reqTime>
+        <ReqParam>
+            <userID></userID>
+            <userPWD></userPWD>
+		</ReqParam>
+	</opReq>
+</BCCBEBankData>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="gb2312"?>
+<bocb2e version="100" security="true" lang="chs">
+    <head>
+        <termid></termid>
+        <custid></custid>
+        <cusopr></cusopr>
+        <trncod>b2e0022</trncod>
+        <token></token>
+    </head>
+    <trans>
+        <trn-b2e0022-rq>
+            <b2e0022-rq>
+                <ibknum></ibknum>
+                <actacn></actacn>
+                <datescope>
+                   <from></from>
+                   <to></to>
+                </datescope>
+                <remtyp>0</remtyp>
+                <prdtyp>0</prdtyp>
+                <chltyp>0</chltyp>
+            </b2e0022-rq>
+        </trn-b2e0022-rq>        
+    </trans>
+</bocb2e>

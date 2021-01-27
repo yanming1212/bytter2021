@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding = "GB2312"?>
+<BCCBEBankData>
+	<opReq>
+		<opName>CebankqueryHisDetailNoSerialOp</opName> 
+		<serialNo></serialNo>
+        <reqTime></reqTime>
+		<ReqParam>
+            <accountNo></accountNo>
+            <beginDate></beginDate>  
+            <endDate></endDate>     
+            <minAmount>0</minAmount>
+            <maxAmount>999999999999</maxAmount>
+            <checkNum> </checkNum>
+		</ReqParam>
+	</opReq>
+</BCCBEBankData>
+

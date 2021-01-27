@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="gb2312"?>
+<transaction>
+	<requestHeader>
+		<transName>b2eQueryTransferResult</transName>
+		<language>zh-cn</language>
+		<clientDate></clientDate>
+		<clientTime></clientTime>
+		<operatorID></operatorID>
+		<clientSeqNo></clientSeqNo>
+	</requestHeader>
+	<requestBody>
+		<oriClientSeqNo></oriClientSeqNo>
+		<oriClientDate></oriClientDate>
+	</requestBody>
+</transaction>

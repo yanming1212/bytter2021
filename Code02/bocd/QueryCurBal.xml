@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="GBK"?>
+<stream>
+	<TRANSCODE>CMACCBAL</TRANSCODE>
+	<list name="userDataList">
+		<row>
+			<ACCNO></ACCNO>
+			<CRYTYPE>CNY</CRYTYPE>
+		</row>
+	</list>
+</stream>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding = "GB2312"?>
+<BCCBEBankData>
+	<opReq>
+		<opName>CebankQryCurDetailAddWLOp</opName>
+		<serialNo></serialNo>
+        <reqTime></reqTime>
+		<ReqParam>
+           <accountNo></accountNo>
+           <dOcFlag></dOcFlag>
+           <minAmount>0</minAmount>
+           <maxAmount>999999999999</maxAmount>
+        </ReqParam>
+	</opReq>
+</BCCBEBankData>

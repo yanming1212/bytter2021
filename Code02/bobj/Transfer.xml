@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding = "GB2312"?>
+<BCCBEBankData>
+	<opReq>
+		<opName>CebankTransferOp</opName>
+		<serialNo></serialNo>
+        <reqTime></reqTime>
+		<ReqParam>
+            <payEnpName></payEnpName>
+            <payAcct></payAcct>  
+            <recAcct></recAcct>     
+            <recAcctName></recAcctName>
+            <recBankName></recBankName>
+            <amount></amount>
+            <payUse></payUse>
+            <remark></remark>
+            <transFlag></transFlag>
+            <transmitType></transmitType>
+			<recDepType>0</recDepType>
+         </ReqParam>
+	</opReq>
+</BCCBEBankData>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding = "GB2312"?>
+<BCCBEBankData>
+	<opReq>	
+		<opName>CebankQueryBalanceOp</opName>
+		<serialNo></serialNo>
+        <reqTime></reqTime>
+		<ReqParam>
+            <accountNo></accountNo>      
+		</ReqParam>
+	</opReq>
+</BCCBEBankData>

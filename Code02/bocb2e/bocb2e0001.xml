@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="gb2312"?>
+<bocb2e version="100" security="true" lang="chs">
+<head>
+  <termid>E021112149036</termid>
+  <custid></custid>
+  <cusopr></cusopr>
+  <trncod>b2e0001</trncod>
+  </head>
+  <trans>
+    <trn-b2e0001-rq>
+      <b2e0001-rq>
+        <custdt></custdt>
+        <oprpwd></oprpwd>
+        <usbkey></usbkey>
+        <ceitinfo></ceitinfo>
+      </b2e0001-rq>
+    </trn-b2e0001-rq>
+  </trans>
+</bocb2e>
