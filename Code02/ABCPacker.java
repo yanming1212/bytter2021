@@ -1,3 +1,8 @@
+/**
+ * 组包基类
+ * @author fangyb
+ *
+ */
 package com.bytter.bis.abc;
 
 import java.io.File;
